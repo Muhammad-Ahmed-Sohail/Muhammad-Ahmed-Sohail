@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **muhammad.ahmedsohail2000@gmail.com**
 
+- 📄 [Check out my CV](https://github.com/Muhammad-Ahmed-Sohail/Personal-CV/blob/5929d63326e80ceb20a8687ee63f5c7696089312/Muhammad%20Ahmed's%20Resume.pdf)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadahmedsohail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadahmedsohail" height="30" width="40" /></a>
